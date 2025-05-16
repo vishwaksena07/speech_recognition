@@ -37,7 +37,6 @@ This project implements a complete end-to-end speech recognition pipeline using 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/speech-recognition-pipeline.git
-cd speech-recognition-pipeline
+https://github.com/vishwaksena07/speech_recognition.git
 
 
